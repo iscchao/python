@@ -1,5 +1,5 @@
 # 读取文件
-file = open("text.html", mode="r") # 获得一个文件句柄 读取模式
+file = open("text.html", mode="r") # 获得一个文件句柄 读取模式 如何不存在文件会报错
 print(file.read())  # 获取当前文件的所有数据
 print(file.read(5))  # 表示从文件中获取5个字节的数据
 print(file.readline())  # 从光标处开始获取当行数据，获取完后光标会移动到下一行开始
