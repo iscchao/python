@@ -1,0 +1,4 @@
+diff a/database.json b/database.json	(rejected hunks)
+@@ -0,0 +1 @@
++[{"user_name": "user_name", "password": "password"}, {"user_name": "ww", "password": "ww"}, {"username": "admin", "password": "<PASSWORD>"}, {"username": "wode", "password": "mimm"}]
+\ No newline at end of file
