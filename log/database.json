@@ -1,1 +1,1 @@
-[{ "用户名" : "用户名" , "密码" : "密码" }, { "用户名" : " ww " , "密码" : " ww " }, { "用户名" : " admin " , "密码" : " <PASSWORD> " }, { "用户名" : " wode " , "密码" : " mimm " }]
+[{"user_name": "user_name", "password": "password"}, {"user_name": "ww", "password": "ww"}, {"username": "admin", "password": "<PASSWORD>"}, {"username": "wode", "password": "mimm"}]
